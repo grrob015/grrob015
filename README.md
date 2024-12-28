@@ -3,15 +3,15 @@
 <h1> Hey, I'm Gabe, an IT student 🐧 🪟</h1> <!-- In order of preference haha. -->
 <h2>About Me:</h2>
 
-Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT, stemmed from an interest in PC gaming and programming. I am doing self-directed studies in helpdesk IT, programming, and Linux, currently using a dualboot computer with Arch Linux and Windows 10. Outside of tech I enjoy reading books on philosophy, spirituality, and self-improvement. My projects and portfolio are down below, please enjoy your stay!
+Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT, stemmed from an interest in PC gaming and programming. I am doing self-directed studies in helpdesk IT, programming, and Linux, currently using a dualboot computer with Arch Linux and Windows 10. Outside of tech I enjoy reading books on philosophy, spirituality, and self-improvement (and Batman 🦇). My projects and portfolio are down below, please enjoy your stay!
 
 <h2>📩 Information Technology Projects:</h2> <!-- I personally don't like emojis but I do have to admit they add a nice bit of color and help differentiate the headers.-->
 <!-- Everything above here is now done. 12/20/2024 -->
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/grrob015/osticket-setup)
+  - [osTicket: Post-Installation Configuration](https://github.com/grrob015/osticket-settings)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/grrob015/osticket-examples)
 - <b>Microsoft Azure Basics</b>
   - [Storage Accounts and Creating Virtual Machines](https://github.com/grrob015/azure-basics)
   - [Observing Network Traffic Between Virtual Machines](https://github.com/grrob015/azure-basics-2)
