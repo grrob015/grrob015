@@ -16,8 +16,8 @@ Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT
   - [Storage Accounts and Creating Virtual Machines](https://github.com/grrob015/azure-basics)
   - [Observing Network Traffic Between Virtual Machines](https://github.com/grrob015/azure-basics-2)
 - <b> Microsoft Azure Advanced Projects/Tutorials </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/grrob015/active-directory-setup)
+  - [Exploring Active Directory Functionality](https://github.com/grrob015/active-directory-examples)
 
 <!-- Everything below here is now done. 12/20/2024 -->
 <h2>💻 Self-Directed Programming Projects:</h2> <!--The line break after this is apparently entirely necessary for formatting.-->
