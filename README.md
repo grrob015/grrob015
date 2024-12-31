@@ -22,10 +22,8 @@ Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT
 <!-- Everything below here is now done. 12/20/2024 -->
 <h2>💻 Self-Directed Programming Projects:</h2> <!--The line break after this is apparently entirely necessary for formatting.-->
 
-- <b>Command Line Interface T3tris:</b><br/>
-  - [Repository and Video Demonstration](https://github.com/grrob015/cli-t3tris)
-- <b>Windowed Battleship Game with ncurses Library:</b>
-  - [Repository and Video Demonstration](https://github.com/grrob015/ncurses-battleship)
+- [Command Line Interface T3tris](https://github.com/grrob015/cli-t3tris)
+- [Windowed Battleship Game with ncurses Library](https://github.com/grrob015/ncurses-battleship)
 
 <h2>🤝 Connect with me:</h2>
 
