@@ -30,8 +30,10 @@ Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT
 [<img align="left" alt="Gabe | YouTube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="Gabe | Gmail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="Gabe | Discord" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" />][discord]
+[<img align="left" alt="Gabe | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" />][discord]
 
 <!-- Apparently these are like little variables, which is cool. -->
 [youtube]: https://www.youtube.com/@grrob015
 [email]: mailto:grrob510@gmail.com
 [discord]: https://discordapp.com/users/1313573092257169519
+[linkedin]: https://www.linkedin.com/in/gabriel-roberts-b43921344/
