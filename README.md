@@ -1,6 +1,6 @@
 <!-- Nice of you to drop by my source code! -->
 <!-- Unfortunately there's not a whole lot here as opposed to something like my programming projects. -->
-<h1> Hey, I'm Gabe, an IT student 🐧 🪟</h1> <!-- In order of preference haha. -->
+<h1> Hey, I'm Gabe, an [IT student](https://www.linkedin.com/in/gabriel-roberts-b43921344/) 🐧 🪟</h1> <!-- In order of preference haha. -->
 <h2>About Me:</h2>
 
 Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT, stemmed from an interest in PC gaming and programming. I am doing self-directed studies in helpdesk IT, programming, and Linux, currently using a dualboot computer with Arch Linux and Windows 10. Outside of tech I enjoy reading books on philosophy, psychology, and self-improvement (and Batman 🦇). My projects and portfolio are down below, please enjoy your stay!
