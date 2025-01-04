@@ -3,7 +3,7 @@
 <h1> Hey, I'm Gabe, an IT student 🐧 🪟</h1> <!-- In order of preference haha. -->
 <h2>About Me:</h2>
 
-Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT, stemmed from an interest in PC gaming and programming. I am doing self-directed studies in helpdesk IT, programming, and Linux, currently using a dualboot computer with Arch Linux and Windows 10. Outside of tech I enjoy reading books on philosophy, spirituality, and self-improvement (and Batman 🦇). My projects and portfolio are down below, please enjoy your stay!
+Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT, stemmed from an interest in PC gaming and programming. I am doing self-directed studies in helpdesk IT, programming, and Linux, currently using a dualboot computer with Arch Linux and Windows 10. Outside of tech I enjoy reading books on philosophy, psychology, and self-improvement (and Batman 🦇). My projects and portfolio are down below, please enjoy your stay!
 
 <h2>📩 Information Technology Projects:</h2> <!-- I personally don't like emojis but I do have to admit they add a nice bit of color and help differentiate the headers.-->
 <!-- Everything above here is now done. 12/20/2024 -->
@@ -24,6 +24,10 @@ Hi! My name is Gabe, I'm 22 years old, and I am looking to start my career in IT
 
 - [Command Line Interface T3tris (with video!)](https://github.com/grrob015/cli-t3tris)
 - [Windowed Battleship Game with ncurses Library (with video!)](https://github.com/grrob015/ncurses-battleship)
+
+## Certifications
+
+![CourseCareersCertificate](https://github.com/user-attachments/assets/7ccb3d60-e722-420d-bd8e-2fd6001d1708)
 
 <h2>🤝 Connect with me:</h2>
 
