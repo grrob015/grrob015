@@ -1,7 +1,7 @@
 <!-- Nice of you to drop by my source code! -->
 <!-- Unfortunately there's not a whole lot here as opposed to something like my programming projects. -->
 
-# Hey, I'm Gabe, an [IT student](https://www.linkedin.com/in/gabriel-roberts-b43921344/) 🐧 🪟
+# Hey, I'm Gabe, an [IT Professional](https://www.linkedin.com/in/gabriel-roberts-b43921344/) 🐧 🪟
 
 <h2>About Me:</h2>
 
