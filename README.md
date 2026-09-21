@@ -23,7 +23,7 @@ Hi! My name is Gabe, I'm 24 years old, and I am looking to start my career in IT
   - [Observing Network Traffic Between Virtual Machines](https://github.com/grrob015/azure-basics-2)
 - <b> Microsoft Azure Advanced Projects/Tutorials </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/grrob015/active-directory-setup)
-  - [Exploring Active Directory Functionality (with video!)](https://github.com/grrob015/active-directory-examples)
+  - [Exploring Active Directory Functionality](https://github.com/grrob015/active-directory-examples)
 
 ## Certifications
 
